@@ -21,3 +21,9 @@ alignItems:"center",
 쓰는 법
 
 # 3.2
+onSubmitEditing={addToDo}
+onChangeText={onChangeText}
+returnKeyType="done"
+value={text}
+placeholder={working ? "Add a To Do" : "Where do you want to go?"}
+style={styles.input}
