@@ -19,3 +19,5 @@ flex: 1.2,
 justifyContent:"center",
 alignItems:"center",
 쓰는 법
+
+# 3.2
