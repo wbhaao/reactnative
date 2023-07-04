@@ -10,3 +10,5 @@ css에 없는 값이 있음 (border)
 # 2.3
 커뮤니티로 확장 API 사용 가능
 # 2.4
+<View style={{flexDirection:"row"}}>
+기본값 column
