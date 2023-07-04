@@ -12,3 +12,10 @@ css에 없는 값이 있음 (border)
 # 2.4
 <View style={{flexDirection:"row"}}>
 기본값 column
+flex 쓰는법
+
+# 2.5
+flex: 1.2, 
+justifyContent:"center",
+alignItems:"center",
+쓰는 법
