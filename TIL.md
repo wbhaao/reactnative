@@ -27,3 +27,7 @@ returnKeyType="done"
 value={text}
 placeholder={working ? "Add a To Do" : "Where do you want to go?"}
 style={styles.input}
+
+# 3.5
+async 스토리지로 저장 할 수 있다ㅣ-
+마운트 할 떄 load를 하고, 값을 변경할 때 save
